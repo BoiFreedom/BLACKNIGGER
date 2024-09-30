@@ -3,14 +3,14 @@ local Frame = Instance.new("Frame")
 local DupeButton = Instance.new("TextButton")
 local ResetButton = Instance.new("TextButton")
 local RejoinButton = Instance.new("TextButton")
-
+jjj
 -- Setting up the ScreenGui
 ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 
 -- Setting up the Frame
 Frame.Size = UDim2.new(0.3, 0, 0.4, 0)
 Frame.Position = UDim2.new(0.35, 0, 0.3, 0)
-Frame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+Frame.BackgroundColor3 =dnjssjsjdjjfjfjjfj Color3.fromRGB(50, 50, 50)
 Frame.Parent = ScreenGui
 
 -- Setting up the Dupe Button
